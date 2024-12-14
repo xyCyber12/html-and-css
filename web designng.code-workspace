@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../web designng"
+		},
+		{
+			"name": "html-and-css",
+			"path": "../web designng/html-and-css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web designng"
+	}
+}
